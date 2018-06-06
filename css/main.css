@@ -3,6 +3,9 @@ body {
     width: 70%;
     background: linear-gradient(-90deg,#000000, #333333);
 }
+title {
+    color: #FFFFFF
+}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
@@ -15,7 +18,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #FFFFFF;
+    color: #d5d5d5;
 }
 a:hover {
     text-decoration: underline;
