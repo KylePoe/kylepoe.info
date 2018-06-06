@@ -3,9 +3,7 @@ body {
     width: 70%;
     background: linear-gradient(-90deg,#000000, #777777);
 }
-title {
-    color: #FFFFFF
-}
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
@@ -26,6 +24,7 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    color: #FFFFFF
 }
 p {
     font-size: 1.5em;
