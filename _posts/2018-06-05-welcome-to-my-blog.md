@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "welcome-to-my-blog"
+title: "Welcome to my blog!"
 date: 2018-06-05
 ---
 
