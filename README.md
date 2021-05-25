@@ -1,2 +1,1 @@
-# This is about a site
-This repository is for my personal website.
+Repository for my personal website. 
